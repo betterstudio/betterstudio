@@ -1,7 +1,9 @@
 # Qg - Java Developers
 
 :bomb: - Spigot Plugin Creation :heavy_check_mark:
+
 :moneybag: - BungeeCord Plugin Creation :heavy_check_mark:
+
 :pizza: - Launcher JavaFX Creation :heavy_check_mark:
 
 # BetterStudio
