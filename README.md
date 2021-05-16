@@ -1,4 +1,13 @@
+# Qg - Java Developers
+
+:bomb: - Spigot Plugin Creation :heavy_check_mark:
+:moneybag: - BungeeCord Plugin Creation :heavy_check_mark:
+:pizza: - Launcher JavaFX Creation :heavy_check_mark:
+
 # BetterStudio
+
+BetterStudio is a group that make Open Source Library and Premium Plugin.
+If you want to join the group or buy a premium plugin, contact me on discord : Qg#5438
 
 ## Library
 
